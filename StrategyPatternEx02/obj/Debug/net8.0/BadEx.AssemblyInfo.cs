@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BadEx")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2bc0e9a599c0a6483c90d084b57f1392304345c")]
 [assembly: System.Reflection.AssemblyProductAttribute("BadEx")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BadEx")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
