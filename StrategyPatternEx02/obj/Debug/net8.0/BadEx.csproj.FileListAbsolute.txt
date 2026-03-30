@@ -1,0 +1,14 @@
+C:\Users\morph\source\repos\StrategyPatternEx02\StrategyPatternEx02\bin\Debug\net8.0\BadEx.exe
+C:\Users\morph\source\repos\StrategyPatternEx02\StrategyPatternEx02\bin\Debug\net8.0\BadEx.deps.json
+C:\Users\morph\source\repos\StrategyPatternEx02\StrategyPatternEx02\bin\Debug\net8.0\BadEx.runtimeconfig.json
+C:\Users\morph\source\repos\StrategyPatternEx02\StrategyPatternEx02\bin\Debug\net8.0\BadEx.dll
+C:\Users\morph\source\repos\StrategyPatternEx02\StrategyPatternEx02\bin\Debug\net8.0\BadEx.pdb
+C:\Users\morph\source\repos\StrategyPatternEx02\StrategyPatternEx02\obj\Debug\net8.0\BadEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morph\source\repos\StrategyPatternEx02\StrategyPatternEx02\obj\Debug\net8.0\BadEx.AssemblyInfoInputs.cache
+C:\Users\morph\source\repos\StrategyPatternEx02\StrategyPatternEx02\obj\Debug\net8.0\BadEx.AssemblyInfo.cs
+C:\Users\morph\source\repos\StrategyPatternEx02\StrategyPatternEx02\obj\Debug\net8.0\BadEx.csproj.CoreCompileInputs.cache
+C:\Users\morph\source\repos\StrategyPatternEx02\StrategyPatternEx02\obj\Debug\net8.0\BadEx.dll
+C:\Users\morph\source\repos\StrategyPatternEx02\StrategyPatternEx02\obj\Debug\net8.0\refint\BadEx.dll
+C:\Users\morph\source\repos\StrategyPatternEx02\StrategyPatternEx02\obj\Debug\net8.0\BadEx.pdb
+C:\Users\morph\source\repos\StrategyPatternEx02\StrategyPatternEx02\obj\Debug\net8.0\BadEx.genruntimeconfig.cache
+C:\Users\morph\source\repos\StrategyPatternEx02\StrategyPatternEx02\obj\Debug\net8.0\ref\BadEx.dll

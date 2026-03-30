@@ -1,0 +1,14 @@
+C:\Users\morph\source\repos\StrategyPatternEx02\GoodEx\bin\Debug\net8.0\GoodEx.exe
+C:\Users\morph\source\repos\StrategyPatternEx02\GoodEx\bin\Debug\net8.0\GoodEx.deps.json
+C:\Users\morph\source\repos\StrategyPatternEx02\GoodEx\bin\Debug\net8.0\GoodEx.runtimeconfig.json
+C:\Users\morph\source\repos\StrategyPatternEx02\GoodEx\bin\Debug\net8.0\GoodEx.dll
+C:\Users\morph\source\repos\StrategyPatternEx02\GoodEx\bin\Debug\net8.0\GoodEx.pdb
+C:\Users\morph\source\repos\StrategyPatternEx02\GoodEx\obj\Debug\net8.0\GoodEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morph\source\repos\StrategyPatternEx02\GoodEx\obj\Debug\net8.0\GoodEx.AssemblyInfoInputs.cache
+C:\Users\morph\source\repos\StrategyPatternEx02\GoodEx\obj\Debug\net8.0\GoodEx.AssemblyInfo.cs
+C:\Users\morph\source\repos\StrategyPatternEx02\GoodEx\obj\Debug\net8.0\GoodEx.csproj.CoreCompileInputs.cache
+C:\Users\morph\source\repos\StrategyPatternEx02\GoodEx\obj\Debug\net8.0\GoodEx.dll
+C:\Users\morph\source\repos\StrategyPatternEx02\GoodEx\obj\Debug\net8.0\refint\GoodEx.dll
+C:\Users\morph\source\repos\StrategyPatternEx02\GoodEx\obj\Debug\net8.0\GoodEx.pdb
+C:\Users\morph\source\repos\StrategyPatternEx02\GoodEx\obj\Debug\net8.0\GoodEx.genruntimeconfig.cache
+C:\Users\morph\source\repos\StrategyPatternEx02\GoodEx\obj\Debug\net8.0\ref\GoodEx.dll

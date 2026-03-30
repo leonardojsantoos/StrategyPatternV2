@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="GoodEx/GoodEx.csproj" Id="7dac5caa-cdc6-4b60-af0b-24fe6c2e2cfe" />
+  <Project Path="PraticaEx/PraticaEx.csproj" Id="9eff2586-1a36-4488-955d-7b238beab913" />
+  <Project Path="StrategyPatternEx02/BadEx.csproj" />
+</Solution>
